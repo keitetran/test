@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# f62671476dfefc7b66f7
+# c51bd8d8d4948286d421
 
 static/fonts/weathericons-regular-webfont.8cac70e.woff
 static/icons/apple-touch-icon-57x57.png
@@ -27,10 +27,10 @@ static/icons/apple-touch-startup-image-1536x2008.png
 static/icons/favicon-16x16.png
 static/icons/favicon-32x32.png
 static/icons/favicon.ico
-static/js/vendor.89d999dab185c391cddf.js
-static/js/app.6752a20d4c385104a5a0.js
+static/js/vendor.1f6c9eb64bfaaabf1b08.js
+static/js/app.600d0da196066a029c15.js
 static/js/manifest.37a2ecbb1d1b7e6c9ada.js
-static/css/app.e861afe9ab670eb2598aa5560576ac21.css
+static/css/app.a8bc1f2f535aa7a25293984ecac77708.css
 index.html
 
 FALLBACK:
